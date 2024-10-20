@@ -12,7 +12,6 @@ class Button extends StatelessWidget {
     this.border,
   });
 
-  // final String text;
   final Widget child;
   final GestureTapCallback? onPressed;
   final bool? disabled;
